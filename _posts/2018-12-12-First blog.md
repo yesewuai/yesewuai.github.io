@@ -3,7 +3,7 @@ layout:     post
 title:      Test Article
 subtitle:   test
 date:       2018-12-12
-author:     BY
+author:     YS
 header-img: img/post-bg-cook.jpg
 catalog: true
 tags:
